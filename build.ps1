@@ -1,0 +1,1 @@
+Get-ChildItem -Path src\connector.lua, lib\socket.dll | Compress-Archive -DestinationPath dist\keyhunter-connector.zip
